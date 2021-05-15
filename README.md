@@ -1,2 +1,0 @@
-# lets-code
-leetcode practices
